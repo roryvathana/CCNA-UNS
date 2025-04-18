@@ -114,14 +114,13 @@ Realized how well-documented configs and diagrams improve collaboration and redu
 🧩 Holistic Network Thinking
 Learned to think beyond device configuration—considering scalability, policy enforcement, and visibility as key design goals.
 ## Repository Structure
-```
+
 📂 University Network Project
  ┣ 📂 Diagrams/
  ┣ 📜 README.md
- ┣ 📜 Universit_Network_Setup_Project.pkt 
+ ┣ 📜 [Universit_Network_Setup_Project.pk]([url](https://drive.google.com/drive/folders/1q885U19ssZyFqGr6pvDGpnTrfsROI0Ge?usp=sharing))t 
  ┣ 📜 VLSM table.csv
  ┗ 📜 IP address table.csv
-```
 
 ## Network Device used
 - Router 2911
