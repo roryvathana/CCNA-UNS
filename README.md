@@ -121,7 +121,8 @@ Learned to think beyond device configuration—considering scalability, policy e
  ┣ 📜 Universit_Network_Setup_Project.pkt 
  ┣ 📜 VLSM table.csv
  ┗ 📜 IP address table.csv
- ```
+```
+
 ## Network Device used
 - Router 2911
 - Switch 3650-24PS
