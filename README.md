@@ -118,7 +118,7 @@ Learned to think beyond device configuration—considering scalability, policy e
 📂 University Network Project
 -  ┣ 📂 Diagrams/
 -  ┣ 📜 README.md
--  ┣ 📜 [Universit_Network_Setup_Project.pk]([url](https://drive.google.com/drive/folders/1q885U19ssZyFqGr6pvDGpnTrfsROI0Ge?usp=sharing))t 
+-  ┣ 📜 [Universit_Network_Setup_Project.pk](https://drive.google.com/drive/folders/1q885U19ssZyFqGr6pvDGpnTrfsROI0Ge?usp=sharing))t 
 -  ┣ 📜 VLSM table.csv
 -  ┗ 📜 IP address table.csv
 
