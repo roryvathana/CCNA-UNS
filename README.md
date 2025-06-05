@@ -1,5 +1,5 @@
 
-# University Network Setup 🚀
+# University Network Setup version 1.0🚀
 ## Overview
 >After completing CCNA v7: Enterprise Networking, Security, and Automation — the third and final course in the Cisco CCNA curriculum — we were tasked with designing and deploying a functional enterprise network that meets a defined set of academic and technical requirements.
 
